@@ -1,3 +1,5 @@
 # Auto detect text files and perform LF normalization
-android/* linguist-documentation
-#Update Git Attribute File
+# Update Git Attribute File
+*.java linguist-detectable=false
+*.html linguist-detectable=false
+*.xml linguist-detectable=false
