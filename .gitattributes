@@ -1,2 +1,3 @@
 # Auto detect text files and perform LF normalization
-android/* linguist-vendored
+android/* linguist-documentation
+#Update Git Attribute File
