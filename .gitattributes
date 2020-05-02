@@ -1,6 +1,5 @@
 # Auto detect text files and perform LF normalization
 # Update Git Attribute File
 *.java linguist-detectable=false
-*.html linguist-detectable=false
-*.xml linguist-detectable=false
-Makefile.in linguist-generated=true
+*.dart linguist-language=Dart
+*.dart linguist-detectable=true
